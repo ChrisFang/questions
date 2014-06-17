@@ -6,3 +6,4 @@ echo $filename
 cut -d',' -f2 $filename | sort | uniq
 done
 
+#fjkdl;ajfkl;dasjfk;lasjfk;lsajfkl;ajsklf;jdsak;lj
